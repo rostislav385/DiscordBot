@@ -1,0 +1,98 @@
+{
+    "1": {
+        "user_name": "rostikys",
+        "user_id": 602963814119374877,
+        "role_name": "Перемещалка",
+        "role_id": 937795813080436767,
+        "info": "efe",
+        "reason": "erfer",
+        "status": "pending",
+        "closed_by": "rostikys",
+        "final_status": "accepted",
+        "closed_at": "2026-03-06 16:02:03.840000+00:00"
+    },
+    "2": {
+        "user_name": "rostikys",
+        "user_id": 602963814119374877,
+        "role_name": "Перемещалка",
+        "role_id": 937795813080436767,
+        "info": "wqedwed",
+        "reason": "wedwed",
+        "status": "pending",
+        "closed_by": "rostikys",
+        "final_status": "rejected",
+        "closed_at": "2026-03-06 16:02:07.362000+00:00"
+    },
+    "4": {
+        "user_name": "rostikys",
+        "user_id": 602963814119374877,
+        "role_name": "Stream unlocker",
+        "role_id": 1479509836747116576,
+        "info": "мне 12",
+        "reason": "Нада",
+        "status": "pending",
+        "closed_by": "rostikys",
+        "final_status": "rejected",
+        "closed_at": "2026-03-06 16:35:28.966000+00:00"
+    },
+    "3": {
+        "user_name": "rosty0807_04497",
+        "user_id": 1373385671305203878,
+        "role_name": "Stream unlocker",
+        "role_id": 1479509836747116576,
+        "info": "",
+        "reason": "Надо заходить в гс",
+        "status": "pending",
+        "closed_by": "rosty0807_04497",
+        "final_status": "rejected",
+        "closed_at": "2026-03-06 16:36:14.737000+00:00"
+    },
+    "5": {
+        "user_name": "rostikys",
+        "user_id": 602963814119374877,
+        "role_name": "Stream unlocker",
+        "role_id": 1479509836747116576,
+        "info": "ty",
+        "reason": "Nado",
+        "status": "pending",
+        "closed_by": "rostikys",
+        "final_status": "accepted",
+        "closed_at": "2026-03-06 16:42:31.131000+00:00"
+    },
+    "6": {
+        "user_name": "rostikys",
+        "user_id": 602963814119374877,
+        "role_name": "Типо админ",
+        "role_id": 938876508674609242,
+        "info": "",
+        "reason": "Nada mine etu role",
+        "status": "pending",
+        "closed_by": "rostikys",
+        "final_status": "rejected",
+        "closed_at": "2026-03-06 16:45:03.976000+00:00"
+    },
+    "8": {
+        "user_name": "cookie_484",
+        "user_id": 860064253964845116,
+        "role_name": "Типо админ",
+        "role_id": 938876508674609242,
+        "info": "костя гей",
+        "reason": "нада права",
+        "status": "pending",
+        "closed_by": "rostikys",
+        "final_status": "rejected",
+        "closed_at": "2026-03-06 16:47:08.885000+00:00"
+    },
+    "7": {
+        "user_name": "rostikys",
+        "user_id": 602963814119374877,
+        "role_name": "Stream unlocker",
+        "role_id": 1479509836747116576,
+        "info": "",
+        "reason": "e",
+        "status": "pending",
+        "closed_by": "rostikys",
+        "final_status": "accepted",
+        "closed_at": "2026-03-06 16:48:33.407000+00:00"
+    }
+}
